@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 12:33:38 On 10.06.2020
+
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [NoVariation] of PCB Document [Digital_Daughter_Optical_12Tx.PcbDoc]
+   Generated File[PickPlace_Digital_Optical_Daughter_12Tx_1vXX_1v01.txt]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 12:33:39 On 10.06.2020
