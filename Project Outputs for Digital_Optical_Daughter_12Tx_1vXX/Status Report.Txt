@@ -1,14 +1,12 @@
-Project Outputs Generation Report
----------------------------------
-Start Output Generation At 12:33:38 On 10.06.2020
-
-Output: Generates pick and place files
-Type  : Pick Place
-From  : Variant [NoVariation] of PCB Document [Digital_Daughter_Optical_12Tx.PcbDoc]
-   Generated File[PickPlace_Digital_Optical_Daughter_12Tx_1vXX_1v01.txt]
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [Digital_Daughter_Optical_12Tx.PcbDoc]
+   Generated File[Digital_Daughter_Optical_12Tx.TXT]
+   Generated File[Digital_Daughter_Optical_12Tx.LDP]
+   Generated File[Digital_Daughter_Optical_12Tx.DRR]
 
 
-Files Generated   : 1
+Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 12:33:39 On 10.06.2020
+Finished Output Generation At 10:46:39 On 16.06.2020

@@ -2,14 +2,88 @@
 FileName = Digital_Daughter_Optical_12Tx.GBR
 AutoAperture = True
 *************************************************************
-Generating : Mechanical 1
-      File : Digital_Daughter_Optical_12Tx.GM1
+Generating : Top Solder
+      File : Digital_Daughter_Optical_12Tx.GTS
 
-    Adding Layer      : Mechanical 1
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : Digital_Daughter_Optical_12Tx.GBO
+
+    Adding Layer      : Bottom Overlay
 
 
 Used DCodes :
     D14
+    D21
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : Digital_Daughter_Optical_12Tx.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : Digital_Daughter_Optical_12Tx.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
 *************************************************************
 
 *************************************************************
@@ -24,6 +98,26 @@ Generating : Bottom Paste
 
 
 Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : Digital_Daughter_Optical_12Tx.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
 *************************************************************
 
 *************************************************************
@@ -70,107 +164,13 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Layer
-      File : Digital_Daughter_Optical_12Tx.GTL
+Generating : Mechanical 1
+      File : Digital_Daughter_Optical_12Tx.GM1
 
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Mechanical 1
 
 
 Used DCodes :
     D14
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
-    D47
-*************************************************************
-
-*************************************************************
-Generating : Top Paste
-      File : Digital_Daughter_Optical_12Tx.GTP
-
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : Digital_Daughter_Optical_12Tx.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D14
-    D21
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : Digital_Daughter_Optical_12Tx.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-*************************************************************
-
-*************************************************************
-Generating : Top Solder
-      File : Digital_Daughter_Optical_12Tx.GTS
-
-    Adding Layer      : Top Solder
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
 *************************************************************
 
