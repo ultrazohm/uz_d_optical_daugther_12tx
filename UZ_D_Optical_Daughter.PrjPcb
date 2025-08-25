@@ -44,7 +44,7 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
-CurrentVariant=12Rx
+CurrentVariant=01-12Rx
 
 [Preferences]
 PrefsVaultGUID=
@@ -187,66 +187,8 @@ GenerateClassCluster=0
 DocumentUniqueId=BAAOTCEJ
 
 [ProjectVariant1]
-UniqueId=0993D04E-2C94-4D8C-A7CF-EE2FA0F62CEB
-Description=12Tx
-AllowFabrication=0
-ParameterCount=0
-VariationCount=50
-Variation1=Designator=X2|UniqueId=\OQHCFXJT|Kind=1|AlternatePart=
-Variation2=Designator=X4|UniqueId=\GBTMSLWM|Kind=1|AlternatePart=
-Variation3=Designator=U3A|UniqueId=\18LZPVJCVI\RAXGSACH|Kind=1|AlternatePart=
-Variation4=Designator=R1A|UniqueId=\18LZPVJCVI\IDKDVXNZ|Kind=1|AlternatePart=
-Variation5=Designator=R2A|UniqueId=\18LZPVJCVI\YUUUNSOK|Kind=1|AlternatePart=
-Variation6=Designator=R3A|UniqueId=\18LZPVJCVI\UGPTKVJH|Kind=1|AlternatePart=
-Variation7=Designator=R1B|UniqueId=\19LZPVJCVI\IDKDVXNZ|Kind=1|AlternatePart=
-Variation8=Designator=R1L|UniqueId=\29LZPVJCVI\IDKDVXNZ|Kind=1|AlternatePart=
-Variation9=Designator=R1K|UniqueId=\28LZPVJCVI\IDKDVXNZ|Kind=1|AlternatePart=
-Variation10=Designator=R1J|UniqueId=\27LZPVJCVI\IDKDVXNZ|Kind=1|AlternatePart=
-Variation11=Designator=R1I|UniqueId=\26LZPVJCVI\IDKDVXNZ|Kind=1|AlternatePart=
-Variation12=Designator=R1H|UniqueId=\25LZPVJCVI\IDKDVXNZ|Kind=1|AlternatePart=
-Variation13=Designator=R1G|UniqueId=\24LZPVJCVI\IDKDVXNZ|Kind=1|AlternatePart=
-Variation14=Designator=R1F|UniqueId=\23LZPVJCVI\IDKDVXNZ|Kind=1|AlternatePart=
-Variation15=Designator=R1E|UniqueId=\22LZPVJCVI\IDKDVXNZ|Kind=1|AlternatePart=
-Variation16=Designator=R1D|UniqueId=\21LZPVJCVI\IDKDVXNZ|Kind=1|AlternatePart=
-Variation17=Designator=R1C|UniqueId=\20LZPVJCVI\IDKDVXNZ|Kind=1|AlternatePart=
-Variation18=Designator=R3L|UniqueId=\29LZPVJCVI\UGPTKVJH|Kind=1|AlternatePart=
-Variation19=Designator=R3K|UniqueId=\28LZPVJCVI\UGPTKVJH|Kind=1|AlternatePart=
-Variation20=Designator=R3J|UniqueId=\27LZPVJCVI\UGPTKVJH|Kind=1|AlternatePart=
-Variation21=Designator=R3I|UniqueId=\26LZPVJCVI\UGPTKVJH|Kind=1|AlternatePart=
-Variation22=Designator=R3H|UniqueId=\25LZPVJCVI\UGPTKVJH|Kind=1|AlternatePart=
-Variation23=Designator=R3G|UniqueId=\24LZPVJCVI\UGPTKVJH|Kind=1|AlternatePart=
-Variation24=Designator=R3F|UniqueId=\23LZPVJCVI\UGPTKVJH|Kind=1|AlternatePart=
-Variation25=Designator=R3E|UniqueId=\22LZPVJCVI\UGPTKVJH|Kind=1|AlternatePart=
-Variation26=Designator=R3D|UniqueId=\21LZPVJCVI\UGPTKVJH|Kind=1|AlternatePart=
-Variation27=Designator=R3C|UniqueId=\20LZPVJCVI\UGPTKVJH|Kind=1|AlternatePart=
-Variation28=Designator=R3B|UniqueId=\19LZPVJCVI\UGPTKVJH|Kind=1|AlternatePart=
-Variation29=Designator=R2L|UniqueId=\29LZPVJCVI\YUUUNSOK|Kind=1|AlternatePart=
-Variation30=Designator=R2K|UniqueId=\28LZPVJCVI\YUUUNSOK|Kind=1|AlternatePart=
-Variation31=Designator=R2J|UniqueId=\27LZPVJCVI\YUUUNSOK|Kind=1|AlternatePart=
-Variation32=Designator=R2I|UniqueId=\26LZPVJCVI\YUUUNSOK|Kind=1|AlternatePart=
-Variation33=Designator=R2H|UniqueId=\25LZPVJCVI\YUUUNSOK|Kind=1|AlternatePart=
-Variation34=Designator=R2G|UniqueId=\24LZPVJCVI\YUUUNSOK|Kind=1|AlternatePart=
-Variation35=Designator=R2F|UniqueId=\23LZPVJCVI\YUUUNSOK|Kind=1|AlternatePart=
-Variation36=Designator=R2E|UniqueId=\22LZPVJCVI\YUUUNSOK|Kind=1|AlternatePart=
-Variation37=Designator=R2D|UniqueId=\21LZPVJCVI\YUUUNSOK|Kind=1|AlternatePart=
-Variation38=Designator=R2C|UniqueId=\20LZPVJCVI\YUUUNSOK|Kind=1|AlternatePart=
-Variation39=Designator=R2B|UniqueId=\19LZPVJCVI\YUUUNSOK|Kind=1|AlternatePart=
-Variation40=Designator=U3B|UniqueId=\19LZPVJCVI\RAXGSACH|Kind=1|AlternatePart=
-Variation41=Designator=U3I|UniqueId=\26LZPVJCVI\RAXGSACH|Kind=1|AlternatePart=
-Variation42=Designator=U3H|UniqueId=\25LZPVJCVI\RAXGSACH|Kind=1|AlternatePart=
-Variation43=Designator=U3G|UniqueId=\24LZPVJCVI\RAXGSACH|Kind=1|AlternatePart=
-Variation44=Designator=U3F|UniqueId=\23LZPVJCVI\RAXGSACH|Kind=1|AlternatePart=
-Variation45=Designator=U3E|UniqueId=\22LZPVJCVI\RAXGSACH|Kind=1|AlternatePart=
-Variation46=Designator=U3D|UniqueId=\21LZPVJCVI\RAXGSACH|Kind=1|AlternatePart=
-Variation47=Designator=U3C|UniqueId=\20LZPVJCVI\RAXGSACH|Kind=1|AlternatePart=
-Variation48=Designator=U3L|UniqueId=\29LZPVJCVI\RAXGSACH|Kind=1|AlternatePart=
-Variation49=Designator=U3K|UniqueId=\28LZPVJCVI\RAXGSACH|Kind=1|AlternatePart=
-Variation50=Designator=U3J|UniqueId=\27LZPVJCVI\RAXGSACH|Kind=1|AlternatePart=
-ParamVariationCount=0
-
-[ProjectVariant2]
-UniqueId=0e0a4f47-55a4-43ee-ad1b-934f21be8c7b
-Description=12Rx
+UniqueId=AF39622B-BC28-42AA-A423-C15BCE3404D3
+Description=01-12Rx
 AllowFabrication=0
 ParameterCount=0
 VariationCount=50
@@ -302,39 +244,101 @@ Variation49=Designator=X2|UniqueId=\OQHCFXJT|Kind=1|AlternatePart=
 Variation50=Designator=X4|UniqueId=\GBTMSLWM|Kind=1|AlternatePart=
 ParamVariationCount=0
 
+[ProjectVariant2]
+UniqueId=883AACA6-BB65-4756-83E0-52B69C06464C
+Description=00-12Tx
+AllowFabrication=0
+ParameterCount=0
+VariationCount=50
+Variation1=Designator=X2|UniqueId=\OQHCFXJT|Kind=1|AlternatePart=
+Variation2=Designator=X4|UniqueId=\GBTMSLWM|Kind=1|AlternatePart=
+Variation3=Designator=U3A|UniqueId=\18LZPVJCVI\RAXGSACH|Kind=1|AlternatePart=
+Variation4=Designator=R1A|UniqueId=\18LZPVJCVI\IDKDVXNZ|Kind=1|AlternatePart=
+Variation5=Designator=R2A|UniqueId=\18LZPVJCVI\YUUUNSOK|Kind=1|AlternatePart=
+Variation6=Designator=R3A|UniqueId=\18LZPVJCVI\UGPTKVJH|Kind=1|AlternatePart=
+Variation7=Designator=R1B|UniqueId=\19LZPVJCVI\IDKDVXNZ|Kind=1|AlternatePart=
+Variation8=Designator=R1L|UniqueId=\29LZPVJCVI\IDKDVXNZ|Kind=1|AlternatePart=
+Variation9=Designator=R1K|UniqueId=\28LZPVJCVI\IDKDVXNZ|Kind=1|AlternatePart=
+Variation10=Designator=R1J|UniqueId=\27LZPVJCVI\IDKDVXNZ|Kind=1|AlternatePart=
+Variation11=Designator=R1I|UniqueId=\26LZPVJCVI\IDKDVXNZ|Kind=1|AlternatePart=
+Variation12=Designator=R1H|UniqueId=\25LZPVJCVI\IDKDVXNZ|Kind=1|AlternatePart=
+Variation13=Designator=R1G|UniqueId=\24LZPVJCVI\IDKDVXNZ|Kind=1|AlternatePart=
+Variation14=Designator=R1F|UniqueId=\23LZPVJCVI\IDKDVXNZ|Kind=1|AlternatePart=
+Variation15=Designator=R1E|UniqueId=\22LZPVJCVI\IDKDVXNZ|Kind=1|AlternatePart=
+Variation16=Designator=R1D|UniqueId=\21LZPVJCVI\IDKDVXNZ|Kind=1|AlternatePart=
+Variation17=Designator=R1C|UniqueId=\20LZPVJCVI\IDKDVXNZ|Kind=1|AlternatePart=
+Variation18=Designator=R3L|UniqueId=\29LZPVJCVI\UGPTKVJH|Kind=1|AlternatePart=
+Variation19=Designator=R3K|UniqueId=\28LZPVJCVI\UGPTKVJH|Kind=1|AlternatePart=
+Variation20=Designator=R3J|UniqueId=\27LZPVJCVI\UGPTKVJH|Kind=1|AlternatePart=
+Variation21=Designator=R3I|UniqueId=\26LZPVJCVI\UGPTKVJH|Kind=1|AlternatePart=
+Variation22=Designator=R3H|UniqueId=\25LZPVJCVI\UGPTKVJH|Kind=1|AlternatePart=
+Variation23=Designator=R3G|UniqueId=\24LZPVJCVI\UGPTKVJH|Kind=1|AlternatePart=
+Variation24=Designator=R3F|UniqueId=\23LZPVJCVI\UGPTKVJH|Kind=1|AlternatePart=
+Variation25=Designator=R3E|UniqueId=\22LZPVJCVI\UGPTKVJH|Kind=1|AlternatePart=
+Variation26=Designator=R3D|UniqueId=\21LZPVJCVI\UGPTKVJH|Kind=1|AlternatePart=
+Variation27=Designator=R3C|UniqueId=\20LZPVJCVI\UGPTKVJH|Kind=1|AlternatePart=
+Variation28=Designator=R3B|UniqueId=\19LZPVJCVI\UGPTKVJH|Kind=1|AlternatePart=
+Variation29=Designator=R2L|UniqueId=\29LZPVJCVI\YUUUNSOK|Kind=1|AlternatePart=
+Variation30=Designator=R2K|UniqueId=\28LZPVJCVI\YUUUNSOK|Kind=1|AlternatePart=
+Variation31=Designator=R2J|UniqueId=\27LZPVJCVI\YUUUNSOK|Kind=1|AlternatePart=
+Variation32=Designator=R2I|UniqueId=\26LZPVJCVI\YUUUNSOK|Kind=1|AlternatePart=
+Variation33=Designator=R2H|UniqueId=\25LZPVJCVI\YUUUNSOK|Kind=1|AlternatePart=
+Variation34=Designator=R2G|UniqueId=\24LZPVJCVI\YUUUNSOK|Kind=1|AlternatePart=
+Variation35=Designator=R2F|UniqueId=\23LZPVJCVI\YUUUNSOK|Kind=1|AlternatePart=
+Variation36=Designator=R2E|UniqueId=\22LZPVJCVI\YUUUNSOK|Kind=1|AlternatePart=
+Variation37=Designator=R2D|UniqueId=\21LZPVJCVI\YUUUNSOK|Kind=1|AlternatePart=
+Variation38=Designator=R2C|UniqueId=\20LZPVJCVI\YUUUNSOK|Kind=1|AlternatePart=
+Variation39=Designator=R2B|UniqueId=\19LZPVJCVI\YUUUNSOK|Kind=1|AlternatePart=
+Variation40=Designator=U3B|UniqueId=\19LZPVJCVI\RAXGSACH|Kind=1|AlternatePart=
+Variation41=Designator=U3I|UniqueId=\26LZPVJCVI\RAXGSACH|Kind=1|AlternatePart=
+Variation42=Designator=U3H|UniqueId=\25LZPVJCVI\RAXGSACH|Kind=1|AlternatePart=
+Variation43=Designator=U3G|UniqueId=\24LZPVJCVI\RAXGSACH|Kind=1|AlternatePart=
+Variation44=Designator=U3F|UniqueId=\23LZPVJCVI\RAXGSACH|Kind=1|AlternatePart=
+Variation45=Designator=U3E|UniqueId=\22LZPVJCVI\RAXGSACH|Kind=1|AlternatePart=
+Variation46=Designator=U3D|UniqueId=\21LZPVJCVI\RAXGSACH|Kind=1|AlternatePart=
+Variation47=Designator=U3C|UniqueId=\20LZPVJCVI\RAXGSACH|Kind=1|AlternatePart=
+Variation48=Designator=U3L|UniqueId=\29LZPVJCVI\RAXGSACH|Kind=1|AlternatePart=
+Variation49=Designator=U3K|UniqueId=\28LZPVJCVI\RAXGSACH|Kind=1|AlternatePart=
+Variation50=Designator=U3J|UniqueId=\27LZPVJCVI\RAXGSACH|Kind=1|AlternatePart=
+ParamVariationCount=0
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for UZ_D_Optical_Daughter_12TxRx\Design Rule Check - Digital_Daughter_Optical_12Tx.html
 DItemRevisionGUID=
 
 [Parameter1]
+Name=vv
+Value=00
+
+[Parameter2]
 Name=Rev
 Value=02
 
-[Parameter2]
+[Parameter3]
 Name=ProjectRevision
 Value=Rev02
 
-[Parameter3]
+[Parameter4]
 Name=ProjectName
 Value=Digital_Optical_Daugther
 
-[Parameter4]
-Name=PPP
-Value=xxx
-
 [Parameter5]
+Name=PPP
+Value=018
+
+[Parameter6]
 Name=GGG
 Value=000
 
-[Parameter6]
-Name=Date
-Value=07/25
-
 [Parameter7]
+Name=Date
+Value=09/25
+
+[Parameter8]
 Name=AuthorParam
 Value=E. Aufderheide
 
-[Parameter8]
+[Parameter9]
 Name=Author
 Value=E. Aufderheide
 
@@ -847,41 +851,11 @@ OutputName11=Specctra Design PCB
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
-OutputType12=Ansoft Neutral
-OutputName12=Ansoft Neutral (AutoPCB)
+OutputType12=Web ReviewOutputName
+OutputName12=Web Review Data
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
-OutputType13=HyperLynx
-OutputName13=HyperLynx (AutoPCB)
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=MathWorks
-OutputName14=MathWorks (AutoPCB)
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=Orcad v7 Capture Design
-OutputName15=Orcad v7 Capture Design (AutoSCH)
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-OutputType16=P-CAD ASCII
-OutputName16=P-CAD ASCII (AutoPCB)
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-OutputType17=P-CAD V16 Schematic Design
-OutputName17=P-CAD V16 Schematic Design (AutoSCH)
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
-OutputType18=Web ReviewOutputName
-OutputName18=Web Review Data
-OutputDocumentPath18=
-OutputVariantName18=
-OutputDefault18=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
