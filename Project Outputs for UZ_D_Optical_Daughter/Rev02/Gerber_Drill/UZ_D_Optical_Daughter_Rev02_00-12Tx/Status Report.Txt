@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [UZ_D_Optical_Daughter.PcbDoc]
+   Generated File[UZ_D_Optical_Daughter_Rev02_00-12Tx.TXT]
+   Generated File[UZ_D_Optical_Daughter_Rev02_00-12Tx.LDP]
+   Generated File[UZ_D_Optical_Daughter_Rev02_00-12Tx.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 09:46:32 On 28.08.2025

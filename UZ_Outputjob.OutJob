@@ -648,11 +648,11 @@ OutputFileNameMulti6=='Export STEP_'+ProjectName+'_'+VariantName+'_'+ProjectRevi
 UseOutputNameForMulti6=0
 OutputFileNameSpecial6=
 OpenOutput6=0
-OutputFilePath7=C:\Users\ga92wum\git\UltraZohm\PCB\UZ_D_optical_daugther_12tx\Project Outputs for UZ_D_Optical_Daughter\Rev02_VariantName_Gerber_Drill\
+OutputFilePath7=C:\Users\ga92wum\git\UltraZohm\PCB\UZ_D_optical_daugther_12tx\Project Outputs for UZ_D_Optical_Daughter\Rev02\Gerber\UZ_D_Optical_Daughter_Rev02_VariantName\
 ReleaseManaged7=1
 OutputBasePath7=Project Outputs for UZ_D_Optical_Daughter
-OutputPathMedia7==ProjectRevision+'_'+VariantName+'_Gerber_Drill'
-OutputPathMediaValue7==ProjectRevision+'_'+VariantName+'_Gerber_Drill'
+OutputPathMedia7==ProjectRevision+'\Gerber_Drill\'+ProjectName+'_'+ProjectRevision+'_'+VariantName
+OutputPathMediaValue7==ProjectRevision+'\Gerber_Drill\'+ProjectName+'_'+ProjectRevision+'_'+VariantName
 OutputPathOutputer7=[Output Type]
 OutputPathOutputerPrefix7=
 OutputPathOutputerValue7=
@@ -715,7 +715,7 @@ OpenGerberOutput6=0
 OpenNCDrillOutput6=0
 OpenIPCOutput6=0
 EnableReload6=0
-RelativeOutputPath7=C:\Users\ga92wum\git\UltraZohm\PCB\UZ_D_optical_daugther_12tx\Project Outputs for UZ_D_Optical_Daughter\Rev02_VariantName_Gerber_Drill\
+RelativeOutputPath7=C:\Users\ga92wum\git\UltraZohm\PCB\UZ_D_optical_daugther_12tx\Project Outputs for UZ_D_Optical_Daughter\Rev02\Gerber\UZ_D_Optical_Daughter_Rev02_VariantName\
 OpenOutputs7=0
 AddToProject7=0
 TimestampFolder7=0
